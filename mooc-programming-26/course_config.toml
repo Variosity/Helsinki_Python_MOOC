@@ -87,3 +87,7 @@ checksum = "bf55476f14ca68c4c33d0344649a5c96"
 [exercises.part06-03_matrix]
 id = 306437
 checksum = "bf9f8686347d7e7ef5edea699279d1f8"
+
+[exercises.part06-17_read_input]
+id = 306442
+checksum = "0df738470f8991e0d7b6a0962475fe3e"
