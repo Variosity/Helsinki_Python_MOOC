@@ -91,3 +91,7 @@ checksum = "bf9f8686347d7e7ef5edea699279d1f8"
 [exercises.part06-17_read_input]
 id = 306442
 checksum = "0df738470f8991e0d7b6a0962475fe3e"
+
+[exercises.part06-18_parameter_validation]
+id = 306451
+checksum = "1db239594ab7048945cbbab82ca9d99f"
