@@ -88,6 +88,10 @@ checksum = "bf55476f14ca68c4c33d0344649a5c96"
 id = 306437
 checksum = "bf9f8686347d7e7ef5edea699279d1f8"
 
+[exercises.part06-10_inscription]
+id = 306445
+checksum = "3226ccd3e0eda4c27a834cb9e5614a6e"
+
 [exercises.part06-17_read_input]
 id = 306442
 checksum = "0df738470f8991e0d7b6a0962475fe3e"
@@ -95,3 +99,11 @@ checksum = "0df738470f8991e0d7b6a0962475fe3e"
 [exercises.part06-18_parameter_validation]
 id = 306451
 checksum = "1db239594ab7048945cbbab82ca9d99f"
+
+[exercises.part07-01_hypotenuse]
+id = 306502
+checksum = "429c8b4af0dd345de4e0e1290512bc2b"
+
+[exercises.part07-02_special_characters]
+id = 306492
+checksum = "3d4056a574e537f0bfef38ca3461d1b2"
