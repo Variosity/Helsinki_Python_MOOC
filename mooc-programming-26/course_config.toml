@@ -115,3 +115,7 @@ checksum = "429c8b4af0dd345de4e0e1290512bc2b"
 [exercises.part07-02_special_characters]
 id = 306492
 checksum = "3d4056a574e537f0bfef38ca3461d1b2"
+
+[exercises.part07-04_lottery_numbers]
+id = 306499
+checksum = "f69497e068db01b7cf814c1c2e071195"
